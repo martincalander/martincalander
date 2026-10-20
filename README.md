@@ -11,6 +11,9 @@
 
 * [Git Submodule Manager](https://github.com/martincalander/GitSubmoduleForUnity)
 * [Editor DarkMode (UPM)](https://github.com/martincalander/UnityEditorDarkModeUPM)
+* [Minimal Editor](https://github.com/martincalander/MinimalUnityEditor)
+* [Project Icon](https://github.com/martincalander/UnityProjectIcon)
+* [Blockbench Importer](https://github.com/martincalander/BlockbenchImporter)
 
 ### Aseprite
 
@@ -20,9 +23,10 @@
 * [Unity Compatability Plugin](https://github.com/soupmasters/UnityEventForAseprite)
 
 
-#### macOS
+#### Apps
 
-* [Mac Drag Scroll](https://github.com/martincalander/MacDragScroll)
+* [Mac Drag Scroll for MacOS](https://github.com/martincalander/MacDragScroll)
+* [Goldenpath for MacOS/Windows/Linux](https://github.com/martincalander/goldenpath)
 
 
 Made by Sweden.
